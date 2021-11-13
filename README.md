@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siddharth Magadum</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 - 🔭 I’m currently working on [Video-Chat](https://video-chat-heroku-frontend.herokuapp.com/)
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Interesting Open Source projects**
 
 - 📫 How to reach me **siddharthmagadum16@gmail.com**
 
