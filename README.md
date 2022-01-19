@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Video-Chat](https://video-chat-heroku-frontend.herokuapp.com/)
 
-- 👯 I’m looking to collaborate on **Interesting Open Source projects**
-
 - 📫 How to reach me **siddharthmagadum16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
