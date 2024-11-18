@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Magadum</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate programmer, who loves building impactful products</h3>
 
 - 📫 How to reach me **siddharthmagadum16@gmail.com**
 
